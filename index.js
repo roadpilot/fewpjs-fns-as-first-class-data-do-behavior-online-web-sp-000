@@ -16,3 +16,4 @@ function greet(){
 /* Write your implementation of displayMessage() */
 function displayMessage(){
   
+}
