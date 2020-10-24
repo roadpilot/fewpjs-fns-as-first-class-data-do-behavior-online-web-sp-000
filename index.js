@@ -11,7 +11,7 @@ function handleClick(e) {
 
 /* Write your implementation of greet() */
 function greet(input){
-  // return input
+  return input
   if (input=="08:40"){
   return "Good Morning";
   }
