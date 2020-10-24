@@ -23,6 +23,6 @@ function greet(input){
   }
 }
 /* Write your implementation of displayMessage() */
-function displayMessage(){
-  
+function displayMessage(greetStr){  
+  document.getElementById("greeting").innerText = greetStr;  
 }
