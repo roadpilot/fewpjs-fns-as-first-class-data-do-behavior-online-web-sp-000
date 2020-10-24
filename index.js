@@ -12,7 +12,7 @@ function handleClick(e) {
 /* Write your implementation of greet() */
 function greet(input){
   return input
-  if (input=="08:40"){
+  if (input=="8:40"){
   return "Good Morning";
   }
   else if (input=="14:21"){
