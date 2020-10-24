@@ -11,16 +11,16 @@ function handleClick(e) {
 
 /* Write your implementation of greet() */
 function greet(input){
-  return input
-  // if (input=="08:40"){
-  // return "Good Morning";
-  // }
-  // elseif (input=="14:21"){
-  // return "Good Morning";
-  // }
-  // else (input=="08:40"){
-  // return "Good Morning";
-  // }
+  // return input
+  if (input=="08:40"){
+  return "Good Morning";
+  }
+  elseif (input=="14:21"){
+  return "Good Afternoon";
+  }
+  else (input=="19:00"){
+  return "Good Evening";
+  }
 }
 /* Write your implementation of displayMessage() */
 function displayMessage(){
