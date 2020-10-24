@@ -12,13 +12,13 @@ function handleClick(e) {
 /* Write your implementation of greet() */
 function greet(input){
   return input
-  // if (input){
+  // if (input=="08:40"){
   // return "Good Morning";
   // }
-  // elseif (input){
+  // elseif (input=="14:21"){
   // return "Good Morning";
   // }
-  // else (input){
+  // else (input=="08:40"){
   // return "Good Morning";
   // }
 }
