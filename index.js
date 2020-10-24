@@ -15,7 +15,7 @@ function greet(input){
   if (input=="08:40"){
   return "Good Morning";
   }
-  elseif (input=="14:21"){
+  else if (input=="14:21"){
   return "Good Afternoon";
   }
   else (input=="19:00"){
